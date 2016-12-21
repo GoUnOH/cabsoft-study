@@ -2,6 +2,7 @@
  red
  orange
  yellow
+ unicorn
  green
  blue
  navy
